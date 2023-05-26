@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Boss
+  - waypoint
+  - Obstacle
+  - house terrain
+  - knifeHB
+  - batHB
+  - spikedHB
+  - gunHB
+  - whipAttack
+  - projAttack
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - House terrain
+  - Water
+  - UI
+  - Player
+  - Boss
+  - Things to ignore
+  - Obstacle
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background (Walls)
+    uniqueID: 848251339
+    locked: 0
+  - name: Background (Interact)
+    uniqueID: 580141967
+    locked: 0
+  - name: Player
+    uniqueID: 477061503
+    locked: 0
+  - name: Foreground
+    uniqueID: 688589907
+    locked: 0

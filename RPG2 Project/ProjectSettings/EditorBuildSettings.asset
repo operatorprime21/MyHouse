@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: c4c45c8623f2d0148802f0b66854af58
+  - enabled: 1
+    path: Assets/Scenes/House.unity
+    guid: 7e124fdec0a3f804498e7098b757b468
+  - enabled: 0
+    path: Assets/Scenes/BossTest.unity
+    guid: 9484aaa7cf9e5774d92adcdb64149b0e
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Day8.unity
+    guid: 5f1d72ca147b0924099f301ddac9f8b4
+  - enabled: 1
+    path: Assets/Scenes/Survive.unity
+    guid: 525e08a83fff95146a5bb223d6bbcdcc
+  - enabled: 1
+    path: Assets/Scenes/Lose.unity
+    guid: 016cbebeb2d42294dacc782b667260ad
+  - enabled: 1
+    path: Assets/Scenes/Win.unity
+    guid: 1bb54c7c724a57e4d8a1984bee07cd5a
+  m_configObjects: {}
